@@ -1,0 +1,4 @@
+sphinx==3.2.1
+jupyter-book
+sphinx-exercise
+sphinx-togglebutton
